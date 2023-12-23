@@ -1,0 +1,6 @@
+IPython==8.14.0
+jupyter_client==8.3.0
+jupyter_core==5.3.1
+numpy==1.25.1
+plotly==5.18.0
+session_info==1.0.0
